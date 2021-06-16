@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShippingSystem.Present
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShippingSystem.Domain", "CargoShippingSystem.Domain\CargoShippingSystem.Domain.csproj", "{4A2AEB79-14A1-4503-8462-3BD7BA53356E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShippingSystem.Infrastructure", "CargoShippingSystem.Infrastructure\CargoShippingSystem.Infrastructure.csproj", "{7FB8149A-EFB4-41DF-90C2-28F89BCF5C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoShippingSystem.Application", "CargoShippingSystem.Application\CargoShippingSystem.Application.csproj", "{E0D7DAC7-9F8B-43A7-8173-5B73723B9D79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{4A2AEB79-14A1-4503-8462-3BD7BA53356E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A2AEB79-14A1-4503-8462-3BD7BA53356E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A2AEB79-14A1-4503-8462-3BD7BA53356E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB8149A-EFB4-41DF-90C2-28F89BCF5C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB8149A-EFB4-41DF-90C2-28F89BCF5C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB8149A-EFB4-41DF-90C2-28F89BCF5C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB8149A-EFB4-41DF-90C2-28F89BCF5C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D7DAC7-9F8B-43A7-8173-5B73723B9D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D7DAC7-9F8B-43A7-8173-5B73723B9D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D7DAC7-9F8B-43A7-8173-5B73723B9D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D7DAC7-9F8B-43A7-8173-5B73723B9D79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
